@@ -1,0 +1,15 @@
+export default {
+  mainColor: 'rgb(95,66,159)',
+  white: '#fff',
+  background: "rgb(250,250,250)",
+  black: 'rgb(13,13,13)',
+  placeholder: "#AEAFBD",
+  disableButton: 'rgb(126,126,126)',
+  subText: "#696E7A",
+  yellow: '#F4CE14',
+  shimmer: "#F2F3F6",
+  darkShimmer: 'rgb(126,126,126,.5)',
+  orange: "#FFC470",
+  blue: "#0E46A3",
+  splashBackground: "rgb(71,158,248)",
+};
